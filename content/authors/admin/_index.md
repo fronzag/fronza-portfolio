@@ -58,11 +58,11 @@ email: "guilherme.fronza@gmail.com"
 
 Hello, I`m a geographer (2012) with a Master of Science degree in Remote Sensing (INPE, 2017).\
 
-13 years of experience with geospatial development/application.\
-Finishing an MBA in Project Management in August 2023.\
-\
+13 years of experience with geospatial development/application.
+Concluded an MBA in Project Management in July 2023.
+
 I have experience with remote sensing vegetation analyses, spatial analysis with Python in Jupyter Notebooks, Remote sensing datasets and applications (currently focused on vegetation and GEDI), Python coding, Google Earth Engine extraction, and Geopandas geospatial data processing.\
-\
+
 I`m curious and study many topics, including Python, Google Earth Engine, Microsoft Planetary Computer, Geospatial data automation, AI (Artificial Intelligence), Machine Learning, Earth observation Big Data, Time Series Analysis, Radiometric and Atmospheric corrections, and carbon stock assessment.
 
 <!--EndFragment-->

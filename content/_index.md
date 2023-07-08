@@ -40,19 +40,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Geospatial Data Scientist
+          company: The Nature Conservancy
+          company_url: 'www.tnc.org.br'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Home Office
+          date_start: '2021-11-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Geospatial analyses considering EO Big Data
+              * Functional connectivity layer (potential) to Pará State
+              * EO time series to qualify restoration projects (GEE back-end).
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
