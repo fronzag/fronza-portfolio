@@ -20,38 +20,32 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Jose-Fronza
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fronzag
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1o16xGfTuqC8R1LZbZwn0SxeLgqmwaECT/view?usp=drive_link
 organizations:
   - name: The Nature Conservancy
     url: www.tnc.org.br
 education:
   courses:
+    - course: MBA in Project Management
+      institution: UNIVALI
+      year: 2023
     - course: Msc in Remote Sensing
       institution: "INPE "
       year: 2017
     - course: BSc in Geography
       institution: UFSC
       year: 2013
-    - course: MBA Project Management
-      institution: UNIVALI
-      year: 2023
 superuser: true
 status:
   icon: ☕️
