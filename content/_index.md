@@ -17,24 +17,28 @@ sections:
       title: Skills
       items:
         - name: Geospatial
-          description: 100%
+          description: 90%
           icon: globe
           icon_pack: fas
         - name: Microsoft Office
-          description: 100%
+          description: 95%
           icon: microsoft
           icon_pack: fab 
         - name: Python
-          description: 70%
+          description: 75%
           icon: python
           icon_pack: fab
         - name: Curiosity
           description: 100%
-          icon: camera-retro
+          icon: book
           icon_pack: fas
         - name: Biking
-          description: 100%
+          description: 40%
           icon: biking
+          icon_pack: fas
+        - name: Robotics
+          description: 10%
+          icon: robot
           icon_pack: fas
   - block: experience
     content:
