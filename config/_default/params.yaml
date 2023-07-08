@@ -15,15 +15,15 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: José Fronza
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Personal'
+    description: 'José Guilherme Fronza personal profile and resume.'
+    twitter: 'fronzag'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'geospatial, geoprocessing, AI, machine learning'
     microsoft_clarity: ''  
   verification:
     google: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} José Guilherme Fronza. This work is licensed under {license}. Fique livre para copiar; ou adaptar conforme seu interesse'
     license:
       enable: true
       allow_derivatives: false
