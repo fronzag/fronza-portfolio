@@ -1,36 +1,39 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: José Guilherme Fronza
+role: Senior Geospatial Data Scientist | Business digitization | Earth
+  Monitoring | Python
+avatar_filename: https://lh3.googleusercontent.com/pw/AIL4fc9XjVkcalx_XM8-OscG51P0F9vS7C9wegGIseiEjFd6zZJc9Q-KwVwqjYTBc-dnI0jxvV00AtxbtXe1Jm6hzf-D1SjEC5wV7C2PK6Yj0uqA2eib5B6qBxRhltrTtYtXGAXiz5Qcrgg1p0WV-Wy2Dw3co1rZA5ztvW_kGyVkik98VxIc_bN4ea-tKHDEg4TC-ZvwKLtn3Kx85gEY1rFML84cXQbxm2hMu73fQ61ba04XwEC4XxwlnlLf3rUgUWwZOwsqXJrxBL4QidEa57J7Uq-Ls-BUpzrCWokjHmvMYYHf-VZUrQYrwh0rx3Mrif-p3CkJsN-vjVzanZ8i1IinG2E1K0O4LdMBpRGipctg1AWTL3hPGHamdx0bzXhT_lJIdd2n0pEowtykObXqE1MTCwbk07Ovy3iDB0fdRIGyOAjdjLfkiCOm2SBu06Mip1l_eBYnLEGSx8TmWRhPDz8CREsYufEnEEGT_VMw6XTOY1K787rlTrWXN5TuBjMNR_ko9TM4tjIMPM8RKPC1-JtCka3NaYqZnrnn9XOJ_DznQmW07nTG1Yk88dNMUEsRkC1Td8NdimgOK9CRCWjBQVOnY9vISL50x-0Ius1KWxxsND9zP3NBPy8fqmRWz4gr6sy2yTgQWAua6cpDfMDFcqg-u70JdGtI6cCew5mu56fG1WrrQdNVkHQMfayS2G_NZ6hcHKRte2Vj0cA7_ulH9cWFcVIDa7qo6q85uHD1UCLlCI5ZFLXEELAR8eY8U08GbQI3bc36q33EysFawf_8JOVub5SxtHChMEcMGlp3F1PrAEECEDcPIyV0QUb66lp2qlT9awnLHe_2DhiYK1tp09IVQOegaaCzLbeVjdfPe9qxCFpd9krdqRQoqbMUUnkr6W7ZV2lNOX52zY2mXgHhdsBXGhVRWTg=w670-h893-s-no?authuser=0
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,42 +45,13 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
