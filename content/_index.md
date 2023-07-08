@@ -18,15 +18,15 @@ sections:
       items:
         - name: Geospatial
           description: 100%
-          icon: fa-globe
+          icon: globe
           icon_pack: fas
         - name: Microsoft Office
           description: 100%
-          icon: fa-microsoft
+          icon: microsoft
           icon_pack: fab 
         - name: Python
           description: 70%
-          icon: fa-python
+          icon: python
           icon_pack: fab
         - name: Curiosity
           description: 100%
@@ -34,7 +34,7 @@ sections:
           icon_pack: fas
         - name: Biking
           description: 100%
-          icon: fa-biking
+          icon: biking
           icon_pack: fas
   - block: experience
     content:
