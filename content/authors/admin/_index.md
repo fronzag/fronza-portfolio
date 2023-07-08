@@ -39,8 +39,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Nature Conservancy
+    url: www.tnc.org.br
 education:
   courses:
     - course: PhD in Artificial Intelligence
