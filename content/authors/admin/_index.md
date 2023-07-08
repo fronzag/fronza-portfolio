@@ -28,7 +28,7 @@ social:
     link: https://github.com/fronzag
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/guilhermefronza/
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1o16xGfTuqC8R1LZbZwn0SxeLgqmwaECT/view?usp=drive_link
