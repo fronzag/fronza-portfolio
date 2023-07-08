@@ -49,9 +49,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Fronza
 highlight_name: true
-first_name: José Fronza
+first_name: José
 email: "guilherme.fronza@gmail.com"
 ---
 <!--StartFragment-->
