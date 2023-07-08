@@ -51,8 +51,8 @@ status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: José Fronza
+email: "guilherme.fronza@gmail.com"
 ---
 <!--StartFragment-->
 
