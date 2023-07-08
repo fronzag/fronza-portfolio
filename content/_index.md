@@ -20,6 +20,10 @@ sections:
           description: 100%
           icon: fa-globe
           icon_pack: fas
+        - name: Microsoft Office
+          description: 100%
+          icon: fa-microsoft
+          icon_pack: fab 
         - name: Python
           description: 70%
           icon: fa-python
@@ -27,6 +31,10 @@ sections:
         - name: Curiosity
           description: 100%
           icon: camera-retro
+          icon_pack: fas
+        - name: Biking
+          description: 100%
+          icon: fa-biking
           icon_pack: fas
   - block: experience
     content:
