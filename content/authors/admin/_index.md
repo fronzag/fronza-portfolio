@@ -15,7 +15,7 @@ interests:
   - Earth observation Big Data
   - Time Series Analysis
   - Radiometric and Atmospheric corrections
-  - and carbon stock assessment
+  - Carbon stock assessment
 social:
   - icon: envelope
     icon_pack: fas
