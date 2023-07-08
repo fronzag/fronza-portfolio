@@ -55,7 +55,7 @@ sections:
         - title: Geospatial Data Scientist
           company: The Nature Conservancy
           company_url: 'www.tnc.org.br'
-          company_logo: org-gc
+          company_logo: ''
           location: Home Office
           date_start: '2021-11-01'
           date_end: ''
