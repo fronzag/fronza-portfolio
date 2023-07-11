@@ -78,8 +78,20 @@ sections:
               Providing services to BTG Pactual, Agricultural Insurance.
               Development of spatial analysis/remote sensing technologies to support Underwriting and Claims sectors.
               Languages/stack: Python, Google Earth Engine, Geopandas, and Fiona
+        - title: Geospatial Developer
+          company: Funcate/INPE
+          company_url: ''
+          company_logo: '' 
+          location: São José dos Campos
+          date_start: '2020-08-01'
+          date_end: '2021-04-01'
+          description: |2-
+              Responsibilities include:
+
+              Analysis of radiometric and geometric characteristics of Sentinel-2, Landsat-8, CBERS-4, and CBERS-4A data cubes, data quality, and proposal for improving pre-processing steps.
+              Project page: http://brazildatacube.org/
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
