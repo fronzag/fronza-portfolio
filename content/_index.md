@@ -71,7 +71,7 @@ sections:
           company_logo: '' 
           location: Home Office
           date_start: '2021-05-01'
-          date_end: '2021-10-31'
+          date_end: '2021-10-30'
           description: |2-
               Responsibilities include:
 
@@ -84,14 +84,41 @@ sections:
           company_logo: '' 
           location: São José dos Campos
           date_start: '2020-08-01'
-          date_end: '2021-04-01'
+          date_end: '2021-04-30'
           description: |2-
               Responsibilities include:
 
               Analysis of radiometric and geometric characteristics of Sentinel-2, Landsat-8, CBERS-4, and CBERS-4A data cubes, data quality, and proposal for improving pre-processing steps.
+
+              Project page: http://brazildatacube.org/
+        - title: Data Quality Assessment - Associate Researcher
+          company: INPE
+          company_url: ''
+          company_logo: '' 
+          location: São José dos Campos
+          date_start: '2020-02-01'
+          date_end: '2021-07-30'
+          description: |2-
+              Responsibilities include:
+
+              Analysis of radiometric and geometric characteristics of Sentinel-2, Landsat-8, CBERS-4, and CBERS-4A data cubes, data quality, and proposal for improving pre-processing steps.
+
+              Project page: http://brazildatacube.org/
+        - title: Associate Founder - Product Owner
+          company: Nitentech
+          company_url: ''
+          company_logo: '' 
+          location: São José dos Campos
+          date_start: '2019-01-01'
+          date_end: '2020-07-31'
+          description: |2-
+              Responsibilities include:
+
+              Analysis of radiometric and geometric characteristics of Sentinel-2, Landsat-8, CBERS-4, and CBERS-4A data cubes, data quality, and proposal for improving pre-processing steps.
+
               Project page: http://brazildatacube.org/
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
