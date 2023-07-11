@@ -65,14 +65,19 @@ sections:
               * Geospatial analyses considering EO Big Data
               * Functional connectivity layer (potential) to Pará State
               * EO time series to qualify restoration projects (GEE back-end).
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Scientist
+          company: BTG Pactual
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: '' 
+          location: Home Office
+          date_start: '2021-05-01'
+          date_end: '2021-10-31'
+          description: |2-
+              Responsibilities include:
+
+              Providing services to BTG Pactual, Agricultural Insurance.
+              Development of spatial analysis/remote sensing technologies to support Underwriting and Claims sectors.
+              Languages/stack: Python, Google Earth Engine, Geopandas, and Fiona
     design:
       columns: '2'
   - block: accomplishments
@@ -179,13 +184,13 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contato
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Caso queira entrar em contato, envie um e-mail ou utilize algum recurso indicado abaixo.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: guilherme.fronza@gmail.com
+      phone: 48 9 88273742
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
