@@ -82,7 +82,7 @@ sections:
           company: Funcate/INPE
           company_url: ''
           company_logo: '' 
-          location: São José dos Campos
+          location: São José dos Campos-SP
           date_start: '2020-08-01'
           date_end: '2021-04-30'
           description: |2-
@@ -95,7 +95,7 @@ sections:
           company: INPE
           company_url: ''
           company_logo: '' 
-          location: São José dos Campos
+          location: São José dos Campos-SP
           date_start: '2020-02-01'
           date_end: '2021-07-30'
           description: |2-
@@ -108,15 +108,42 @@ sections:
           company: Nitentech
           company_url: ''
           company_logo: '' 
-          location: São José dos Campos
+          location: São José dos Campos-SP
           date_start: '2019-01-01'
           date_end: '2020-07-31'
           description: |2-
               Responsibilities include:
 
-              Analysis of radiometric and geometric characteristics of Sentinel-2, Landsat-8, CBERS-4, and CBERS-4A data cubes, data quality, and proposal for improving pre-processing steps.
+              The Orion Platform allows for complete customization and modularization of data collection and forms by the field/operations team in specific projects or activities, such as archaeology, construction inspection, logistics, dynamic reports, physical environment, environmental inspection, environmental liabilities, field recognition, checklists, control and validation of developed activities, etc.
 
-              Project page: http://brazildatacube.org/
+              The application works on tablets and smartphones and allows for fully offline data collection, providing a spatial and non-spatial database (yes, we have online maps) almost in real-time stored in the cloud, as well as tracking activities through graphs and management dashboards and their multiple outputs (Excel spreadsheets, Google Earth KML, and customized PDF reports for your clients).
+        - title: Enviromental Analyst
+          company: MRS Ambiental
+          company_url: ''
+          company_logo: '' 
+          location: Brasília-DF
+          date_start: '2019-02-01'
+          date_end: '2020-02-28'
+          description: |2-
+              Responsibilities include:
+
+              * Innovation and digital transformation
+              * Digital marketing, SEO, growth hacking
+              * Implementation of systems and mobile applications
+        - title: Product Owner and Consultant
+          company: Ambientare - Soluções em Meio Ambiente
+          company_url: ''
+          company_logo: '' 
+          location: Brasília-DF
+          date_start: '2017-12-01'
+          date_end: '2019-01-31'
+          description: |2-
+              Responsibilities include:
+
+              * Responsible for the development of SIGA (Integrated Environmental Management System)
+              * Semi-automated enviromental reports
+              * Developed customized data collection Android mobile application based on specific forms
+              * Customized offline environmental data collection geospatial platform
     design:
       columns: '2'
   - block: accomplishments
