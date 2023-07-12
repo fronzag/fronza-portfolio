@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: 'geospatial, geoprocessing, AI, machine learning'
+    google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
     google: ''
