@@ -10,11 +10,7 @@ url_slides: ""
 subtitle: WebGIS OpenSource
 tags:
   - WebGIS
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
