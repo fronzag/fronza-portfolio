@@ -96,7 +96,7 @@ sections:
           company_url: ''
           company_logo: '' 
           location: São José dos Campos-SP
-          date_start: '2020-02-01'
+          date_start: '2021-02-01'
           date_end: '2021-07-30'
           description: |2-
               Responsibilities include:
