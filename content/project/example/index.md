@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: WebGIS OpenSource
 tags:
-  - Deep Learning
+  - GIS
 links:
   - icon: twitter
     icon_pack: fab
