@@ -146,7 +146,7 @@ sections:
               * Customized offline environmental data collection geospatial platform
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Licenças e certificados
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -162,10 +162,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-01-01'
-          description: ''
+          description: 'Self-awareness. Motivation. Decision-making.'
           organization: Linkedin
           organization_url: https://www.linkedin.com
-          title: Como Desenvolver a Autoliderança
+          title: Self-Leadership course
           url: ''
         - certificate_url: 
           date_end: ''
@@ -180,7 +180,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Postagens recentes
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -207,7 +207,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Projetos
       filters:
         folders:
           - project
@@ -219,11 +219,11 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: Tudo
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
+        - name: Software
+          tag: Software
+        - name: Outros
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -233,7 +233,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Galeria de fotos
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -244,36 +244,32 @@ sections:
     content:
       title: Contato
       subtitle:
-      text: |-
+      #text: |-
         Caso queira entrar em contato, envie um e-mail ou utilize algum recurso indicado abaixo.
       # Contact (add or remove contact options as necessary)
       email: guilherme.fronza@gmail.com
       phone: 48 9 88273742
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        street: ''
+        city: Florianópolis
+        region: SC
+        postcode: ''
+        country: Brazil
+        country_code: BR
+      #contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+      #    name: DM Me
+      #    link: 'https://twitter.com/Twitter'
+      #  - icon: skype
+      #    icon_pack: fab
+      #    name: Skype Me
+      #    link: 'skype:echo123?call'
+      #  - icon: video
+      #    icon_pack: fas
+      #    name: Zoom Me
+      #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
