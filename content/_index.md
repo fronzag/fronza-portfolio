@@ -149,7 +149,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Licenças e certificados'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -180,7 +180,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Postagens recentes
+      title: Recent posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -207,28 +207,20 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projetos
+      title: Projects
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Galeria de fotos
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: contact
     id: contact
     content:
-      title: Contato
+      title: Contact
       subtitle:
       #text: |-
-        Caso queira entrar em contato, envie um e-mail ou utilize algum recurso indicado abaixo.
+        If you want to get in touch, send an email or use one of the resources indicated below.
       # Contact (add or remove contact options as necessary)
       email: guilherme.fronza@gmail.com
       phone: 48 9 88273742
