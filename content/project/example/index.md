@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: WebGIS OpenSource
 tags:
-  - GIS
+  - WebGIS
 links:
   - icon: twitter
     icon_pack: fab
