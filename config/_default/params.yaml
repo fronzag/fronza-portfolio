@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} José Guilherme Fronza. This work is licensed under {license}. Fique livre para copiar; ou adaptar conforme seu interesse'
+    notice: '© {year} José Guilherme Fronza. This work is licensed under {license}. Feel free to copy or adapt according to your interest'
     license:
       enable: true
       allow_derivatives: false
