@@ -15,21 +15,18 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-<<<<<<< HEAD
 
 authors:
-  - 
+  - José
   - 
 
 tags:
-  - 
+  - Wowchemy
   - 
 
 categories:
   - 
   - 
-=======
->>>>>>> 84777e11a9c52a4d4081860a4211d05346a42e7f
 ---
 
 ```python
