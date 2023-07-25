@@ -21,7 +21,7 @@ marketing:
     description: 'José Guilherme Fronza, geospatial developer, personal profile and resume.'
     twitter: 'fronzag'
   analytics:
-    google_analytics: ''
+    google_analytics: '<meta name="google-site-verification" content="AZl2j4MO_qqgoCd2r5vl_0tbnalBEaSiFccLrpIEpdg" />'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
