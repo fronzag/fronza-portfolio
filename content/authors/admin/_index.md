@@ -3,8 +3,7 @@ title: José Guilherme Fronza
 role: Senior Geospatial Data Scientist | Business digitization | Earth
   Monitoring | Python
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Senior Geospatial Data Scientist | Business digitization | Earth Monitoring | Python
 interests:
   - Python
   - Google Earth Engine
