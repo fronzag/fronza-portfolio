@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: José Fronza
+    site_type: Person
     local_business_type: ''
     org_name: 'Personal'
-    description: 'José Guilherme Fronza personal profile and resume.'
+    description: 'José Guilherme Fronza, geospatial developer, personal profile and resume.'
     twitter: 'fronzag'
   analytics:
     google_analytics: ''
