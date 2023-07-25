@@ -1,12 +1,12 @@
 ---
 title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: ""
-date: 2023-07-25T01:26:53.092Z
+date: 2023-07-25T01:28:23.098Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
