@@ -1,32 +1,21 @@
 ---
 title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-12-13T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
+subtitle: ""
+date: 2023-07-25T01:28:23.098Z
+summary: ""
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors: []
+lastmod: 2020-12-13T00:00:00.000Z
+tags: []
+categories: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  focal_point: ""
   placement: 2
   preview_only: false
+<<<<<<< HEAD
 
 authors:
   - 
@@ -39,6 +28,8 @@ tags:
 categories:
   - 
   - 
+=======
+>>>>>>> 84777e11a9c52a4d4081860a4211d05346a42e7f
 ---
 
 ```python
