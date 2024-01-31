@@ -7,7 +7,7 @@ tags:
   - webGIS
 image:
   filename: featured.jpg
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 ---
 <!--StartFragment-->
