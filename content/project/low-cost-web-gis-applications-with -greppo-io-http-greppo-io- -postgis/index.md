@@ -26,4 +26,8 @@ Here is an example of potential agroforestry areas in the Great Florianopolis re
 \
 It\`s easy to configure and use. Enjoy it! Detail: I\`m using the PostGIS database (RDS AWS) connected with sqlalchemy and Geopandas.
 
+![](1703868997400.jpg)
+
+
+
 <!--EndFragment-->
