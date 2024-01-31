@@ -6,7 +6,7 @@ featured: false
 tags:
   - webGIS
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: ""
   preview_only: false
 ---
