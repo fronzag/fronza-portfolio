@@ -8,7 +8,7 @@ tags:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 <!--StartFragment-->
 
