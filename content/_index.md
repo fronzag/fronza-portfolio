@@ -52,7 +52,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Data Science and Innovation Lead
+        - title: Data Science and Innovation Lead
           company: The Nature Conservancy
           company_url: ''
           company_logo: ''
@@ -73,7 +73,7 @@ sections:
           company_logo: ''
           location: Home Office
           date_start: '2021-11-01'
-          date_end: '2023-09-30'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
