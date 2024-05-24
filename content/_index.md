@@ -58,7 +58,7 @@ sections:
           company_logo: ''
           location: Home Office
           date_start: '2023-10-01'
-          date_end: ''
+          date_end: '2024-05-26'
           description: |2-
               Responsibilities include:
 
@@ -238,6 +238,8 @@ sections:
           tag: '*'
         - name: WebGIS
           tag: WebGIS
+        - name: Web Scraping
+          tag: Webscrap        
         - name: Field
           tag: Field
         - name: Remote Sensing

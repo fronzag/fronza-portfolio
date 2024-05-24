@@ -35,7 +35,7 @@ summary: |-
 draft: false
 featured: false
 tags:
-  - WebScraping
+  - Webscrap
 categories: []
 links:
   - url: https://github.com/fronzag/fbds_database
