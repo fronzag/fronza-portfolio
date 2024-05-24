@@ -35,9 +35,8 @@ summary: |-
 draft: false
 featured: false
 tags:
-  - Python
-categories:
-  - Python
+  - WebScraping
+categories: []
 links:
   - url: https://github.com/fronzag/fbds_database
     name: Github Repo
