@@ -34,6 +34,10 @@ summary: |-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - Python
+categories:
+  - Python
 links:
   - url: https://github.com/fronzag/fbds_database
     name: Github Repo
