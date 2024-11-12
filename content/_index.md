@@ -259,7 +259,7 @@ sections:
         If you want to get in touch, send an email or use one of the resources indicated in this page.
       # Contact (add or remove contact options as necessary)
       email: guilherme.fronza@gmail.com
-      phone: 48 9 88273742
+      phone: https://w.app/dE6yBu
       #appointment_url: 'https://calendly.com'
       address:
         street: ''

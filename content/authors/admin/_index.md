@@ -32,8 +32,8 @@ social:
     icon_pack: ai
     link: https://drive.google.com/file/d/1o16xGfTuqC8R1LZbZwn0SxeLgqmwaECT/view?usp=drive_link
 organizations:
-  - name: The Nature Conservancy
-    url: www.tnc.org.br
+  - name: Consultant
+    url: https://jfronza-portfolio.netlify.app/
 education:
   courses:
     - course: MBA in Project Management
