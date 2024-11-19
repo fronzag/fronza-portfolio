@@ -52,6 +52,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Head of Geospatial Data Science
+          company: Stealth Startup 
+          company_url: ''
+          company_logo: ''
+          location: Home Office
+          date_start: '2024-06-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Climate data ETL 
+              * Spatial intelligence
+              * Machine Learning/IA algorithms
+              * Agro Insurance Remote Sensing products
+              * Digital Innovation
+              * Flask, Git, Python, Google Earth Engine
+              
         - title: Data Science and Innovation Lead
           company: The Nature Conservancy
           company_url: ''
