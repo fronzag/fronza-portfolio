@@ -17,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: Geospatial
-          description: 90%
+          description: 95%
           icon: globe
           icon_pack: fas
         - name: Microsoft Office
-          description: 95%
+          description: 100%
           icon: microsoft
           icon_pack: fab 
         - name: Python
-          description: 75%
+          description: 85%
           icon: python
           icon_pack: fab
         - name: Curiosity
@@ -33,11 +33,11 @@ sections:
           icon: book
           icon_pack: fas
         - name: Biking
-          description: 40%
+          description: 55%
           icon: biking
           icon_pack: fas
         - name: Robotics
-          description: 10%
+          description: 35%
           icon: robot
           icon_pack: fas
   - block: experience
@@ -53,7 +53,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Head of Geospatial Data Science
-          company: Stealth Startup 
+          company: Natu - Insurance products for Agriculture
           company_url: ''
           company_logo: ''
           location: Home Office
