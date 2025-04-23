@@ -70,6 +70,8 @@ E﻿nglish Version:
 
 🔗 **How to access?** Those interested can access the project repository on GitHub: <https://lnkd.in/dtCFtBN5> There you will find all the necessary documentation to use and contribute to the project. I would like to thank Michel Metran for the incredible work and contribution to the scientific and environmental community. I am excited to see how this tool will be used and the positive impacts it will bring to our studies and conservation projects.
 
+D﻿ownload processed data here: https://drive.google.com/drive/folders/1CJ0YM3t3REfFTQZpLfg0dOQyEyP_A0nu?usp=sharing
+
 <!--EndFragment-->
 
 <!--StartFragment-->
